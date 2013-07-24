@@ -2,3 +2,4 @@ Debug/
 src/*~
 .anjuta_sym_db.db
 .anjuta/
+autom4te.cache/
