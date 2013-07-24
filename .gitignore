@@ -1,3 +1,4 @@
 Debug/
-src/main.c~
+src/*~
 .anjuta_sym_db.db
+.anjuta/

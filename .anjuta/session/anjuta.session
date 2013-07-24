@@ -3,17 +3,15 @@ Maximized=1
 Geometry=1600x811+1366+29
 
 [File Loader]
-Files=../../src/main.c#21%%%../../src/afinador_guitarra.ui
+Files=../../src/main.c#22%%%../../src/afinador_guitarra.ui
 
 [Document Manager]
 bookmarks=<?xml version="1.0" encoding="UTF-8"?>\n<bookmarks/>\n
 
 [Project Manager]
 Shortcut=afinador-guitarra//src//afinador_guitarra
-Expand=afinador_guitarra%%%afinador-guitarra%%%afinador-guitarra//src%%%afinador-guitarra//src//afinador_guitarra%%%afinador-guitarra//src//ui%%%afinador-guitarra//afinador_guitarradoc
 
 [Execution]
-Program arguments=
 Program uri=../../Debug/src/afinador_guitarra
 Run in terminal=2
 Working directories=../../../afinador-guitarra
